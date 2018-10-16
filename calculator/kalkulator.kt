@@ -57,7 +57,7 @@ fun main(args: Array<String>) {
         } else if (zapytanie == "N" || zapytanie == "n") {
             pytanie()
         } else {
-            print("Do widzenia")
+            print("Do zobaczenia")
         }
     }
 
